@@ -1,4 +1,4 @@
-title: "Données et corrélées"
+title: "Données et Corrélées"
 subtitle: "Comprendre la Data Science d'ores et... maintenant"
 author: "Walter Dal'Maz Silva"
 
@@ -14,7 +14,7 @@ format:
     logo: _assets/logo.svg
 
     # If true, add a slide with TOC to the beginning
-    toc: true
+    toc: false
 
     # Set the depth of the TOC
     toc-depth: 1
@@ -41,7 +41,7 @@ format:
     reference-location: document
 
     # Footer text
-    footer: "Données et corrélées - Walter Dal'Maz Silva - 2026"
+    footer: "Données et Corrélées - Walter Dal'Maz Silva - 2026"
 
     # When printing, how to handle speaker notes
     # show-notes: separate-page

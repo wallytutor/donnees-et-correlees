@@ -1,4 +1,4 @@
-# Données et corrélées
+# Données et Corrélées
 
 Comprendre la Data Science d'ores et... maintenant.
 

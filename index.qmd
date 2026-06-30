@@ -4,9 +4,31 @@
 {{< include "_slides/_01/_preparation.qmd" >}}
 {{< include "_slides/_01/_exploratoire.qmd" >}}
 
-# Introduction
+# Concepts et Préparation
 
 {{< include "_slides/_02/_intro.qmd" >}}
+{{< include "_slides/_02/_nettoyage.qmd" >}}
+{{< include "_slides/_02/_traitement.qmd" >}}
+{{< include "_slides/_02/_types.qmd" >}}
+
+# Supervisé
+
+{{< include "_slides/_03/_knn.qmd" >}}
+{{< include "_slides/_03/_trees.qmd" >}}
+{{< include "_slides/_03/_linear.qmd" >}}
+{{< include "_slides/_03/_forests.qmd" >}}
+{{< include "_slides/_03/_svm.qmd" >}}
+{{< include "_slides/_03/_ensemble.qmd" >}}
+
+# Non-Supervisé
+
+{{< include "_slides/_04/_kmeans.qmd" >}}
+
+# Réseaux de Neurones
+
+{{< include "_slides/_05/_perceptron.qmd" >}}
+{{< include "_slides/_05/_mlp.qmd" >}}
+{{< include "_slides/_05/_pinns.qmd" >}}
 
 # Appendix
 
