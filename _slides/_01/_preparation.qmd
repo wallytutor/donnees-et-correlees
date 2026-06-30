@@ -1,0 +1,21 @@
+## Préparation de la Séance de Travail
+
+:::: {.nonincremental}
+
+- Télécharge le [*répo*](https://github.com/wallytutor/donnees-et-correlees/tree/main) de la formation et extraire ses contenus dans un dossier en dehors de tout *nuage* (Google Drive, Onedrive, Dropbox, iCloud, etc.)
+
+::: {.callout-note title="Qu'est-ce qu'un répo ?"}
+
+Un *répo* (de l'anglicisme *repository*) est un dossier *dépôt* avec contrôle de version, dans nos jours le plus souvent avec le système **Git** (et l'hébergeur **GitHub** ou **Gitlab**). Il contient tous les fichiers d'un projet, mais surtout, son historique.
+
+:::
+
+- Télécharger les versions *.zip* et *extraire* les logiciels suivants :
+
+    - [Jamovi](https://www.jamovi.org/download.html) : un logiciel d'analyse de données statistiques, gratuit, open-source et multi-plateforme.
+
+    - [Orange](https://orangedatamining.com/download/) : un environnement de travail pour l'analyse de données et l'apprentissage machine, gratuit, open-source et multi-plateforme.
+
+- Pour les plus ambitieux ou curieux, vous pouvez aussi télécharger [WinPython](https://github.com/winpython/winpython/releases) ou une autre distribution Python de votre choix.
+
+::::

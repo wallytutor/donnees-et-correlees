@@ -1,6 +1,7 @@
 # Préambule
 
 {{< include "_slides/_01/_objectifs.qmd" >}}
+{{< include "_slides/_01/_preparation.qmd" >}}
 {{< include "_slides/_01/_exploratoire.qmd" >}}
 
 # Introduction
@@ -11,4 +12,5 @@
 
 {{< include "_slides/_appendix/_orange.qmd" >}}
 {{< include "_slides/_appendix/_jamovi.qmd" >}}
+{{< include "_slides/_appendix/_git.qmd" >}}
 {{< include "_slides/_appendix/_references.qmd" >}}

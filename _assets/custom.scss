@@ -10,7 +10,9 @@
 
 $body-bg: #ffffff;
 
-$body-color: #012169;
+$header-color: #012169;
+
+$body-color: #000000;
 
 $text-muted: lighten($body-color, 20%);
 
@@ -62,7 +64,7 @@ $presentation-h4-font-size: 1.0em;
 
 // $presentation-heading-font: $font-family-sans-serif;
 
-$presentation-heading-color: $body-color;
+$presentation-heading-color: $header-color;
 
 // $presentation-heading-line-height: 1.2;
 
