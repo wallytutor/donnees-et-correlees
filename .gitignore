@@ -1,0 +1,8 @@
+# Generated documents
+*_files/
+*.html
+*.pptx
+*.pdf
+
+/.quarto/
+**/*.quarto_ipynb

@@ -1,0 +1,62 @@
+title: "Données et corrélées"
+subtitle: "Comprendre la Data Science d'ores et... maintenant"
+author: "Walter Dal'Maz Silva"
+
+format:
+
+  #####################################################################
+
+  revealjs:
+    # Control over the look & feel of the presentation
+    theme: [simple, _assets/custom.scss]
+
+    # Add a logo
+    logo: _assets/logo.svg
+
+    # If true, add a slide with TOC to the beginning
+    toc: true
+
+    # Set the depth of the TOC
+    toc-depth: 1
+
+    # Level used to designate a new slide
+    slide-level: 2
+
+    # If true, bullet lists are shown incrementally
+    incremental: true
+
+    # If true, use a smaller font face
+    smaller: true
+
+    # Show slide numbers
+    slide-number: true
+
+    # If true, allow content to overflow and scroll
+    scrollable: false
+
+    # If true, center the title slide (cannot be scrolled!)
+    center-title-slide: true
+
+    # Footnotes at the end of the document
+    reference-location: document
+
+    # Footer text
+    footer: "Données et corrélées - Walter Dal'Maz Silva - 2026"
+
+    # When printing, how to handle speaker notes
+    # show-notes: separate-page
+
+  #####################################################################
+
+  beamer:
+    theme: default
+
+  #####################################################################
+
+  pptx:
+    theme: default
+
+  #####################################################################
+
+  typst:
+    theme: default

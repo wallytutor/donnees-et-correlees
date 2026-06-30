@@ -1,0 +1,13 @@
+## Analyse Exploratoire de Données
+
+::: {.panel-tabset}
+
+### Tab A
+
+Content for `Tab A`
+
+### Tab B
+
+Your are now inside `Tab B`
+
+:::
