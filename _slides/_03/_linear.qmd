@@ -1,1 +1,5 @@
 ## Régressions Linéaires
+
+::: {.aside}
+Regardez aussi la [liste de réproduction](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU) par StatQuest [@StatQuest].
+:::

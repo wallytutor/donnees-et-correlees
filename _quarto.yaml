@@ -2,7 +2,7 @@ title: "Données et Corrélées"
 subtitle: "Comprendre la Data Science d'ores et... maintenant"
 author: "Walter Dal'Maz Silva"
 bibliography: references.bib
-csl: _assets/ieee.csl
+csl: https://raw.githubusercontent.com/citation-style-language/styles/refs/heads/master/ieee.csl
 
 format:
 

@@ -84,8 +84,18 @@ $presentation-heading-color: $header-color;
 
 /*-- scss:rules --*/
 
+// Place logo on footer:
 .reveal .slide-logo {
     max-height: 60px !important;
     bottom: 0px;
     right: 0px;
+}
+
+// Add a line under slide titles (presumed h2):
+.reveal .slides h2::after {
+    content: "";
+    display: block;
+    margin-top: 0.2em;
+    border-bottom: 2px solid $header-color;
+    width: 100%;
 }

@@ -1,0 +1,5 @@
+## Régression Logistique
+
+::: {.aside}
+Regardez aussi la [liste de réproduction](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe) par StatQuest [@StatQuest].
+:::

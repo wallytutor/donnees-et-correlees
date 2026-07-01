@@ -1,1 +1,5 @@
 ## Machines à Vecteurs de Support (SVM)
+
+::: {.aside}
+Regardez aussi la [liste de réproduction](https://www.youtube.com/playlist?list=PLblh5JKOoLUL3IJ4-yor0HzkqDQ3JmJkc) par StatQuest [@StatQuest].
+:::

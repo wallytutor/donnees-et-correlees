@@ -1,1 +1,5 @@
 ## Arbres de Décision
+
+::: {.aside}
+Regardez aussi la [liste de réproduction](https://www.youtube.com/playlist?list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH) par StatQuest [@StatQuest].
+:::
