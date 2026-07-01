@@ -1,4 +1,4 @@
-## References
+## References {.allowframebreaks}
 
-:::{#refs}
+:::{#refs .smallletter style="font-size: 0.6em;"}
 :::
