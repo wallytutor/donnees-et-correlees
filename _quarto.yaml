@@ -12,6 +12,12 @@ format:
     # Control over the look & feel of the presentation
     theme: [simple, _assets/custom.scss]
 
+    # Force slide canvas to span entire screen with custom margins
+    # Note: this cannot be done directly in the CSS apparently...
+    width: "100%"
+    height: "100%"
+    margin: 0.10
+
     # Add a logo
     logo: _assets/logo.svg
 
