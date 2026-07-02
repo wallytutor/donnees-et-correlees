@@ -8,6 +8,8 @@
 
 ::: {.nonincremental}
 
+### Le Dépôt
+
 - Télécharge le [*répo*](https://github.com/wallytutor/donnees-et-correlees/tree/main) de la formation et extraire ses contenus dans un dossier en dehors de tout *nuage* (Google Drive, Onedrive, Dropbox, iCloud, etc.)
 
 ::: {.callout-note title="Qu'est-ce qu'un répo ?"}
@@ -16,13 +18,23 @@ Un *répo* (de l'anglicisme *repository*) est un dossier *dépôt* avec contrôl
 
 :::
 
+### Les Logiciels
+
 - Télécharger les versions *.zip* et *extraire* les logiciels suivants :
 
     - [Jamovi](https://www.jamovi.org/download.html) : un logiciel d'analyse de données statistiques, gratuit, open-source et multi-plateforme.
 
     - [Orange](https://orangedatamining.com/download/) : un environnement de travail pour l'analyse de données et l'apprentissage machine, gratuit, open-source et multi-plateforme.
 
+### Pour aller plus loin
+
 - Pour les plus ambitieux ou curieux, vous pouvez aussi télécharger [WinPython](https://github.com/winpython/winpython/releases) ou une autre distribution Python de votre choix.
+
+::: {.callout-note title="Pourquoi ces choix ?"}
+
+xxx
+
+:::
 
 :::
 
