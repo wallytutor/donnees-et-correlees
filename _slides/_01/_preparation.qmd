@@ -1,6 +1,12 @@
 ## Préparation de la Séance de Travail
 
-:::: {.nonincremental}
+:::: {.columns}
+
+<!-- Column 1 -->
+
+::: {.column width="50%"}
+
+::: {.nonincremental}
 
 - Télécharge le [*répo*](https://github.com/wallytutor/donnees-et-correlees/tree/main) de la formation et extraire ses contenus dans un dossier en dehors de tout *nuage* (Google Drive, Onedrive, Dropbox, iCloud, etc.)
 
@@ -17,5 +23,15 @@ Un *répo* (de l'anglicisme *repository*) est un dossier *dépôt* avec contrôl
     - [Orange](https://orangedatamining.com/download/) : un environnement de travail pour l'analyse de données et l'apprentissage machine, gratuit, open-source et multi-plateforme.
 
 - Pour les plus ambitieux ou curieux, vous pouvez aussi télécharger [WinPython](https://github.com/winpython/winpython/releases) ou une autre distribution Python de votre choix.
+
+:::
+
+:::
+
+<!-- Column 2 -->
+
+::: {.column width="50%"}
+
+:::
 
 ::::
